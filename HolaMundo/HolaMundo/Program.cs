@@ -12,6 +12,8 @@ namespace HolaMundo
         {
             Console.WriteLine("Hola mundo");
             Console.ReadLine();
+            Console.WriteLine("Hola mundo2");
+            Console.ReadLine();
         }
     }
 }
